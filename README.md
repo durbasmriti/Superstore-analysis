@@ -23,7 +23,7 @@ The dataset (`orders` table) contains fields such as:
 ## Tools Used
 
 - **Database**: MySQL 8.x
-- **IDE**: MySQL Workbench / DBeaver / CLI (as preferred)
+- **IDE**: MySQL Workbench
 
 ---
 
